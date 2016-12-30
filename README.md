@@ -1,6 +1,13 @@
-## Codice Brevis Frustra or if you prefer English, Short Code Pieces... ( ͡° ͜ʖ ͡°)
+## Codice Brevis Frustra, i.e. Short Code Pieces... :)
+
 
 * Just another collection of code snippets for Visual Studio.
+
+
+```ruby 
+( ͡° ͜ʖ ͡°)
+
+
 
 
 
