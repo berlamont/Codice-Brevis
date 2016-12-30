@@ -5,7 +5,9 @@
 
 
 ```ruby 
+Be sure to check out Snippetica by Josef Pihrt https://github.com/JosefPihrt/Snippetica
 ( ͡° ͜ʖ ͡°)
+
 
 
 
